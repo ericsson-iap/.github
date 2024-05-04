@@ -4,7 +4,7 @@ We're Ericsson Intelligent Automation Platform (EIAP) - developer experience gro
 
 We develop apps, tools and content to help the world write and develop their own network automation apps.
 
-What is EIAP? It's Ericsson's product offering in Service and Managed Orchestration (SMO) which is an [Open Radio Access Network](https://www.o-ran.org) (ORAN) standards aligned solution for everything you need to automate your network!
+What is EIAP? It's Ericsson's product offering in Service Management & Orchestration (SMO) which is an [Open Radio Access Network](https://www.o-ran.org) (ORAN) standards aligned solution for everything you need to automate your network!
 
 Our [developer portal](https://developer.intelligentautomationplatform.ericsson.net/) is in restricted early access - but we want to continually publish more in open source and want to welcome both your feedback and contributions!
 
