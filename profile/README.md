@@ -8,6 +8,8 @@ What is EIAP? It's Ericsson's product offering in Service Management & Orchestra
 
 Our [developer portal](https://developer.intelligentautomationplatform.ericsson.net/) is in restricted early access - but we want to continually publish more in open source and want to welcome both your feedback and contributions!
 
+Note: If you need help accessing the EIAP Ecosystem, contact support at this email address: intelligent.automation.platform@ericsson.com
+
 <!--
 
 **Here are some ideas to get you started:**
